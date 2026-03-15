@@ -6,7 +6,7 @@ A data-driven Streamlit dashboard for analysing residential property listings ac
 
 ## Live Demo
 
-> [View Dashboard →] [https://mumbai property dcf calculator](https://mumbaipropertydcfcalculator-zivr63dbqmaywnf3mx9lmh.streamlit.app/)
+> [View Dashboard →] [https://mumbai property dcf calculator](https://mumbaipropertydcfcalculator-z49x6r6xgl8fwkxjkat84w.streamlit.app/)
 
 ---
 

@@ -40,9 +40,6 @@ mumbai_property_project/
 ├── .gitignore                    # Git ignore rules
 └── README.md                     # This file
 ```
-
-> `raw_listings.csv` and `clean_data.py` are excluded from the repository via `.gitignore`.
-
 ---
 
 ## Dataset

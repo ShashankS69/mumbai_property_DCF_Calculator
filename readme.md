@@ -6,7 +6,7 @@ A data-driven Streamlit dashboard for analysing residential property listings ac
 
 ## Live Demo
 
-> [View Dashboard →]([https://your-app.streamlit.app](https://mumbaipropertydcfcalculator-zivr63dbqmaywnf3mx9lmh.streamlit.app/)) ← replace with your Streamlit Cloud URL
+> [View Dashboard →]([https://your-app.streamlit.app](https://mumbaipropertydcfcalculator-zivr63dbqmaywnf3mx9lmh.streamlit.app/)) 
 
 ---
 

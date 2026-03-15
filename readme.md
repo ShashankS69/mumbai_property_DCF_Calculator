@@ -12,7 +12,11 @@ A data-driven Streamlit dashboard for analysing residential property listings ac
 
 ## Screenshots
 
-> Add screenshots of each tab here after deployment.
+![Market Overview Dashboard](screenshots/1.png)
+
+![Trends Analysis](screenshots/2.png)
+
+![Buy vs Rent Calculator](screenshots/3.png)
 
 ---
 

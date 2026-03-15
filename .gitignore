@@ -46,8 +46,7 @@ Thumbs.db
 .idea/
 
 # Project specific
-data/
-!data/cleaned_listings.csv
+dataset/
 test_slider.py
 custom.css
 clean_data.py

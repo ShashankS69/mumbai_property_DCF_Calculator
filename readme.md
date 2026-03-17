@@ -84,7 +84,7 @@ mumbai_property_project/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/mumbai-property-dashboard.git
+git clone https://github.com/ShashankS69/mumbai_property_DCF_Calculator.git
 cd mumbai-property-dashboard
 
 # Install dependencies
